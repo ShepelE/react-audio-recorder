@@ -2,7 +2,7 @@
   "name": "react-audio-recorder",
   "version": "2.0.0",
   "description": "Audio Recorder",
-  "main": "dist/AudioRecorder.min.js",
+  "main": "dist/AudioRecorder.js",
   "module": "dist/AudioRecorder.js",
   "jsnext:main": "dist/AudioRecorder.js",
   "license": "MIT",
